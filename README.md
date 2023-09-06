@@ -1,7 +1,7 @@
 # Plate Detector
 
-Fintuned YOLOv8 model to detect license plates and cars.
+Finetuned YOLOv8 model to detect license plates and cars.
 
-Suitable for use on dashcam videos etc.
+Example use case on dashcam videos, security cams etc.
 
 Training prodecure in colab notebook.
